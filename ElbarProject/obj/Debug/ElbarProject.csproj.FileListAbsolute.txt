@@ -1,0 +1,472 @@
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+F:\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+F:\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+F:\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+Y:\000תכנות ד\ליטל מעודה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+C:\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+C:\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+C:\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\תכנות מחשבים\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\תכנות מחשבים\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\תכנות מחשבים\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+Y:\000תכנות ד\ליטל מעודה\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (5)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\ליטל\c# 2015\פויקט אלבר  2016\פרויקט אלבר 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+G:\תכנות מחשבים\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+G:\תכנות מחשבים\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+G:\תכנות מחשבים\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+D:\ליטל\c# 2015\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\RdlCompile.cache
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\RdlCompile.compiled
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+Y:\000תכנות ד\ליטל מעודה\תיקיה חדשה (2)\תיקיה חדשה\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportTakeCar.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\ליטל\c# 2015\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportTakeCar.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\RdlCompile.cache
+Y:\000תכנות ד\ליטל מעודה\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\RdlCompile.compiled
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportTakeCar.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פרויקט למתכונת\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportTakeCar.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\ליטל\c# 2015\פרויקט לבגרות\דוחות\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportTakeCar.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+Z:\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojResolveAssemblyReference.cache
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportTakeCar.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\ליטל\c# 2015\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.Cache
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.accdb
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe.config
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.exe
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\ElbarProject.pdb
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csprojAssemblyReference.cache
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.ExiteButton.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmWellcome.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddBranch.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCar.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddCreditCard.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddDesign.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddFix.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddGroup.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddManufactore.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddShowClient.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmAddWorker.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarReturn.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmCarsFromDGV.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmDelTake.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmEnterExit.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmFixReturn.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportCarReturn.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportFixs.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportInviting.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmReportTakeCar.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchCars.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmSearchTake.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmShowCars.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeCar.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.GUI.frmTakeForLong.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.Properties.Resources.resources
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.GenerateResource.cache
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.CoreCompileInputs.cache
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.csproj.CopyComplete
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.exe
+D:\לימודים\תיכון\project for selling\ElbarProject\ElbarProject\obj\Debug\ElbarProject.pdb

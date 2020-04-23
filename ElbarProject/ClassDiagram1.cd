@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ElbarProject.BLL.Branch">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAACIAAAAAAIAAAACAAEAAIABAACEAAAABAAAAA=</HashCode>
+      <FileName>BLL\Branch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.BranchTable">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\BranchTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Car">
+    <Position X="7.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBggAACgMAAAIDEAgAABAIQgAAAEIAgAAAEYAAQJEA=</HashCode>
+      <FileName>BLL\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.CarTable">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAQAAQAAAAAAAAAABAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\CarTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.City">
+    <Position X="18.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAQAAAAEAAAAAAAAAAAAAAAAABAAAAAQA=</HashCode>
+      <FileName>BLL\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.CityTable">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\CityTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Client">
+    <Position X="27.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAEACAARAAAAsBAAALAQAAIIACAAiABgALAAQAIg=</HashCode>
+      <FileName>BLL\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.ClientTable">
+    <Position X="29.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\ClientTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Colors">
+    <Position X="2.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAGAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Color.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.ColorsTable">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\ColorTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.CreditCard">
+    <Position X="9.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAACAAAEAAAABAAAAAAAAgAAACIAAAIgAAA=</HashCode>
+      <FileName>BLL\CreditCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.CreditCardTable">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\CreditCardTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Design">
+    <Position X="20.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAhAAEUKAEBBAABAAAAAAAAAAAAAAAAAAAgAAEAAAAA=</HashCode>
+      <FileName>BLL\Design.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.DesignTable">
+    <Position X="23" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\DesignTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Fixs">
+    <Position X="29.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABiAAQCAgAAAAAEAgAABAIAEAAAABAABAAEAAAAJAA=</HashCode>
+      <FileName>BLL\Fixs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.FixsTable">
+    <Position X="32" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\FixsTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.GeneralRow">
+    <Position X="17.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>BLL\GeneralRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.GeneralTable">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAACAAABAAAAEAAQIAAAIAMAFAAEAAAAAAAA=</HashCode>
+      <FileName>BLL\GeneralTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Group">
+    <Position X="11.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABgGEACAAAAAAAAAAAgAAAAgAARAIAAEQACAAAAIhg=</HashCode>
+      <FileName>BLL\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.GroupTable">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\GroupTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Job">
+    <Position X="23" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEhAACAKAAAgAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>BLL\Job.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.JobTable">
+    <Position X="25.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\JobTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.KindLicense">
+    <Position X="32" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAAAAAAAABAAAAAQBAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BLL\KindLicense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.KindLicenseTable" Collapsed="true">
+    <Position X="34.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\KindLicenseTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Manufacturer">
+    <Position X="5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAACAAAAAAAAAAKAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BLL\Manufacturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.ManufacturerTable">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\ManufacturerTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.ParkingInBranch">
+    <Position X="14" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAACAAAAAAAAAIAAAACAAAAAEAAAABAAAACAAAA=</HashCode>
+      <FileName>BLL\ParkingInBranch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.ParkingInBranchTable">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>BLL\ParkingInBranchTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Salary">
+    <Position X="25.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABgAAgCIAAAAAAQACAAEAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>BLL\Salary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.SalaryTable">
+    <Position X="27.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\SalaryTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Takes">
+    <Position X="34.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgRDCAACAyQAIAAEICAAFCAEAAUABAABgABAMIIAAAg=</HashCode>
+      <FileName>BLL\Takes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.TakesTable">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\TakesTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.Worker">
+    <Position X="16.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAUACAABAAAAIAAgACAAIAAKAAAAjkIAAKBCAAAg=</HashCode>
+      <FileName>BLL\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.BLL.WorkerTable">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\WorkerTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElbarProject.DAL.Dal">
+    <Position X="33.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAACAAAAACA=</HashCode>
+      <FileName>DAL\Dal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="9" />
+</ClassDiagram>

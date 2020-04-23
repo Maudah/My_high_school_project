@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{118BF208-59EA-47B8-B8ED-A8A6B0E17DD7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ElbarProject</RootNamespace>
+    <AssemblyName>ElbarProject</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Branch.cs" />
+    <Compile Include="BLL\BranchTable.cs" />
+    <Compile Include="BLL\Car.cs" />
+    <Compile Include="BLL\CarTable.cs" />
+    <Compile Include="BLL\City.cs" />
+    <Compile Include="BLL\CityTable.cs" />
+    <Compile Include="BLL\Client.cs" />
+    <Compile Include="BLL\ClientTable.cs" />
+    <Compile Include="BLL\Color.cs" />
+    <Compile Include="BLL\ColorTable.cs" />
+    <Compile Include="BLL\CreditCard.cs" />
+    <Compile Include="BLL\CreditCardTable.cs" />
+    <Compile Include="BLL\Design.cs" />
+    <Compile Include="BLL\DesignTable.cs" />
+    <Compile Include="BLL\Fixs.cs" />
+    <Compile Include="BLL\FixsTable.cs" />
+    <Compile Include="BLL\GeneralRow.cs" />
+    <Compile Include="BLL\GeneralTable.cs" />
+    <Compile Include="BLL\Group.cs" />
+    <Compile Include="BLL\GroupTable.cs" />
+    <Compile Include="BLL\Job.cs" />
+    <Compile Include="BLL\JobTable.cs" />
+    <Compile Include="BLL\KindLicense.cs" />
+    <Compile Include="BLL\KindLicenseTable.cs" />
+    <Compile Include="BLL\Manufacturer.cs" />
+    <Compile Include="BLL\ManufacturerTable.cs" />
+    <Compile Include="BLL\ParkingInBranch.cs" />
+    <Compile Include="BLL\ParkingInBranchTable.cs" />
+    <Compile Include="BLL\Salary.cs" />
+    <Compile Include="BLL\SalaryTable.cs" />
+    <Compile Include="BLL\Suport.cs" />
+    <Compile Include="BLL\Takes.cs" />
+    <Compile Include="BLL\TakesTable.cs" />
+    <Compile Include="BLL\Validation.cs" />
+    <Compile Include="BLL\Worker.cs" />
+    <Compile Include="BLL\WorkerTable.cs" />
+    <Compile Include="DAL\Dal.cs" />
+    <Compile Include="ElbarProjecDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ElbarProjecDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ElbarProjecDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ElbarProjecDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ElbarProjecDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ElbarProjecDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ElbarProjecDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ElbarProjecDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ExiteButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExiteButton.Designer.cs">
+      <DependentUpon>ExiteButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddBranch.Designer.cs">
+      <DependentUpon>frmAddBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddCar.Designer.cs">
+      <DependentUpon>frmAddCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddCreditCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddCreditCard.Designer.cs">
+      <DependentUpon>frmAddCreditCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddDesign.Designer.cs">
+      <DependentUpon>frmAddDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddFix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddFix.Designer.cs">
+      <DependentUpon>frmAddFix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddGroup.Designer.cs">
+      <DependentUpon>frmAddGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddManufactore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddManufactore.Designer.cs">
+      <DependentUpon>frmAddManufactore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddShowClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddShowClient.Designer.cs">
+      <DependentUpon>frmAddShowClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmAddWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmAddWorker.Designer.cs">
+      <DependentUpon>frmAddWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmCarReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmCarReturn.Designer.cs">
+      <DependentUpon>frmCarReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmCarsFromDGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmCarsFromDGV.Designer.cs">
+      <DependentUpon>frmCarsFromDGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmDelTake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmDelTake.Designer.cs">
+      <DependentUpon>frmDelTake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmEnterExit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmEnterExit.Designer.cs">
+      <DependentUpon>frmEnterExit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmFixReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmFixReturn.Designer.cs">
+      <DependentUpon>frmFixReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmReportCarReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmReportCarReturn.Designer.cs">
+      <DependentUpon>frmReportCarReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmReportFixs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmReportFixs.Designer.cs">
+      <DependentUpon>frmReportFixs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmReportInviting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmReportInviting.Designer.cs">
+      <DependentUpon>frmReportInviting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmReportTakeCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmReportTakeCar.Designer.cs">
+      <DependentUpon>frmReportTakeCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmSearchCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmSearchCars.Designer.cs">
+      <DependentUpon>frmSearchCars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmSearchTake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmSearchTake.Designer.cs">
+      <DependentUpon>frmSearchTake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmShowCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmShowCars.Designer.cs">
+      <DependentUpon>frmShowCars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmTakeCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmTakeCar.Designer.cs">
+      <DependentUpon>frmTakeCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmTakeForLong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmTakeForLong.Designer.cs">
+      <DependentUpon>frmTakeForLong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HebrewTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LetterTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumberTextBox - Copy.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumberTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\MyButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="ExiteButton.resx">
+      <DependentUpon>ExiteButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddBranch.resx">
+      <DependentUpon>frmAddBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddCar.resx">
+      <DependentUpon>frmAddCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddCreditCard.resx">
+      <DependentUpon>frmAddCreditCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddDesign.resx">
+      <DependentUpon>frmAddDesign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddFix.resx">
+      <DependentUpon>frmAddFix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddGroup.resx">
+      <DependentUpon>frmAddGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddManufactore.resx">
+      <DependentUpon>frmAddManufactore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddShowClient.resx">
+      <DependentUpon>frmAddShowClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmAddWorker.resx">
+      <DependentUpon>frmAddWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmCarReturn.resx">
+      <DependentUpon>frmCarReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmCarsFromDGV.resx">
+      <DependentUpon>frmCarsFromDGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmDelTake.resx">
+      <DependentUpon>frmDelTake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmEnterExit.resx">
+      <DependentUpon>frmEnterExit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmFixReturn.resx">
+      <DependentUpon>frmFixReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmReportCarReturn.resx">
+      <DependentUpon>frmReportCarReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmReportFixs.resx">
+      <DependentUpon>frmReportFixs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmReportInviting.resx">
+      <DependentUpon>frmReportInviting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmReportTakeCar.resx">
+      <DependentUpon>frmReportTakeCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmSearchCars.resx">
+      <DependentUpon>frmSearchCars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmSearchTake.resx">
+      <DependentUpon>frmSearchTake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmShowCars.resx">
+      <DependentUpon>frmShowCars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmTakeCar.resx">
+      <DependentUpon>frmTakeCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmTakeForLong.resx">
+      <DependentUpon>frmTakeForLong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\report\Report1.rdlc" />
+    <EmbeddedResource Include="GUI\report\Report2.rdlc" />
+    <EmbeddedResource Include="GUI\report\Report3.rdlc" />
+    <EmbeddedResource Include="GUI\report\Report4.rdlc" />
+    <EmbeddedResource Include="GUI\report\Report5.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="..\..\..\ClassDiagram1.cd">
+      <Link>ClassDiagram1.cd</Link>
+    </None>
+    <None Include="ElbarProjecDataSet.xsc">
+      <DependentUpon>ElbarProjecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ElbarProjecDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ElbarProjecDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ElbarProjecDataSet.xss">
+      <DependentUpon>ElbarProjecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ElbarProjecDataSet1.xsc">
+      <DependentUpon>ElbarProjecDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ElbarProjecDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ElbarProjecDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ElbarProjecDataSet1.xss">
+      <DependentUpon>ElbarProjecDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ElbarProjecDataSet2.xsc">
+      <DependentUpon>ElbarProjecDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ElbarProjecDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ElbarProjecDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ElbarProjecDataSet2.xss">
+      <DependentUpon>ElbarProjecDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ElbarProjecDataSet3.xsc">
+      <DependentUpon>ElbarProjecDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ElbarProjecDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ElbarProjecDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ElbarProjecDataSet3.xss">
+      <DependentUpon>ElbarProjecDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\M1tmban0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\בובה.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tring.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ElbarProject.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
